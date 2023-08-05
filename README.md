@@ -1,1 +1,1 @@
-# flight-ticket-booikng-frontend
+# flight-ticket-booking-frontend
